@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    
+}
+.main-head{
+    text-align: center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img1{
+    width: 400px;
+    height: 250px;
+}
+.img2{
+    width: 400px;
+    height: 250px;
+}
+.img3{
+    width: 400px;
+    height: 250px;
+
+}
+.main{    
+    border: 1px red solid;
+    width: 400px;
+    height: 250px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    float: left;
+    
+}
+
+.lpie-div{
+background-color: red;
+}
+
+
+.mucize-div{
+    background-color: blue;
+
+}
+
+.main h1{
+    font-size: 25px; 
+}

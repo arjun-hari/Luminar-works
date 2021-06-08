@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.main-head{
+    text-align: center;
+    color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.row{
+width: 499px;
+height: 350px;
+    text-align: center;
+    color: white;
+    float: left;
+    border: red 1px solid ;
+    
+}
+
+.column{
+    text-align: center;
+    width: 499px;
+    height: 200px;
+    float: left;
+    border: 1px red solid;
+    background-color: blue;
+
+}
+.lifepie{
+    background-color:red;
+   
+    
+}
+.mucize{
+    background-color: blue;
+   
+}
