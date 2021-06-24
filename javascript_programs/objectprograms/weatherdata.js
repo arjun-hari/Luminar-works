@@ -36,3 +36,15 @@ for (let data of temperature) {
 
 }
 console.log(weather);
+
+// sort descending order by temp
+function districtSort(data){
+return Object.entries(data).sort((dist1,dist2)=>dist2[1]-dist1[1])
+}
+console.log(districtSort(weather));
+
+
+
+// find district with highest temperature
+var highest_temp_dist=temperature.reduce((temp1,temp2)=>temp1.temprature>temp2.temprature?temp1:temp2);
+console.log(highest_temp_dist);
